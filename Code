@@ -26,7 +26,7 @@ using namespace std;
     int cong = a+b ;
 cout << "cong = " << cong << endl;
 }
-Mã code Thương
+
 #include <iostream>
 using namespace std;
 int main(){
